@@ -1,4 +1,5 @@
 a=10;
 b=2;
-c=a+b;
+d=12;
+c=a+b+d;
 console.log(c)
